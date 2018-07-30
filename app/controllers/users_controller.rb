@@ -19,3 +19,5 @@ private
     params.require(:user).permit(:name, :password, :password_confirmation)
   end
 end
+
+#comment to try to submit this freakin lesson properly
